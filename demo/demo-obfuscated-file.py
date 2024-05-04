@@ -1,4 +1,5 @@
 # PythonNoMercy Demo
+# PythonNoMercy Beta 1.0.2, Max Settings
 
 from builtins import *
 from math import prod as Walk
